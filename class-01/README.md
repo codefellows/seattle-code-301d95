@@ -106,3 +106,7 @@ We will spend some time reviewing the concepts from the prework. We will also di
 
    export default Something
    ```
+
+## Resources
+
+- [Replit: ForEach, Arrow Functions and Classes](https://replit.com/@sheyna/FrontCriticalRecursion#index.js)
