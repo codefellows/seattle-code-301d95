@@ -1,0 +1,9 @@
+body {
+  background-color: beige;
+}
+
+/* use classes more than IDs in React. React components are meant to be reused */
+
+h1 {
+  font-size: 5vw;
+}

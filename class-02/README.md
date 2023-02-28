@@ -93,3 +93,7 @@ This class will focus on passing information as `props` from a parent component 
 
   export default Child
   ```
+
+## Resources
+
+- [Replit: Array Map Method and Ternaries](https://replit.com/@sheyna/DimInbornBackticks#index.js)
