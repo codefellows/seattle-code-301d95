@@ -39,7 +39,7 @@ In the last class, you learned how to pass information from a parent component i
 
 1. Allowing the child component to update the state in the parent component:
 
-  - Step 1. send a function into the child component that updates the state in the parent component
+- Step 1. send a function into the child component that updates the state in the parent component
 
   ```javaScript
   class Parent extends React.Component {
@@ -60,7 +60,8 @@ In the last class, you learned how to pass information from a parent component i
   }
   ```
 
-  - Step 2. invoke that function from the props in the child component
+- Step 2. invoke that function from the props in the child component
+
   ```javaScript
   class Child extends React.Component {
     constructor(props){
@@ -86,4 +87,9 @@ In the last class, you learned how to pass information from a parent component i
   }
   ```
 
-  - Step 3. The invoked function from the child component will update the name in the parent component and tada! Your child component has essientially changed the state of your parent component.
+- Step 3. The invoked function from the child component will update the name in the parent component and tada! Your child component has essientially changed the state of your parent component.
+
+## Resources
+
+- [Replit: Array filter method](https://replit.com/@sheyna/HighlevelOrderlyAutomatedinformationsystem#index.js)
+- [List of Bootstrap classes](https://bootstrapshuffle.com/classes)
