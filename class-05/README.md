@@ -91,3 +91,7 @@ For this class we will use the skills we learned during the last module to build
     }
   }
   ```
+
+## Resources
+
+- [Replit Reduce Array Method](https://replit.com/@sheyna/AverageSadCron#index.js)
