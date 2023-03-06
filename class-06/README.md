@@ -93,3 +93,9 @@ For this class we will explore third party APIs and how to request data from the
 
    - you can wrap a try/catch around any code you want
    - it says, "try to run this code - if it doesn't work, then run the code in the catch block"
+
+## Resources
+
+- [Replit: Spread Operator](https://replit.com/@sheyna/ScarceMeanElectricity#index.js)
+- [HTTP Status Dogs](https://httpstatusdogs.com/)
+- [HTTP Cats](https://http.cat/)
