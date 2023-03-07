@@ -19,7 +19,7 @@ class App extends React.Component {
       // console.log('event fired');
       // get the data from the SW API
       // axios is the library of code that we will use to make our requests
-      let starWarsCharacters = await axios.get('https://swapi.dev/api/peple/?page=1');
+      let starWarsCharacters = await axios.get('https://swapi.dev/api/people/?page=1');
       // console.log(starWarsCharacters.data.results);
       //save it in state
       this.setState({
