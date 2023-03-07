@@ -106,3 +106,15 @@ In this class we will build our own custom Express server in Node.js. We will se
        response.send(`you sent the city of ${city}`)
      });
      ```
+
+## Resources
+
+- install nodemon to your computer so you can run node projects without having to restart your sever after each change: `npm i -g nodemon`
+
+## Code Challenge
+
+String and array methods
+
+- Split — takes a string appart and turns into an array
+- Join — takes an array and puts it together into a string
+- Slice and splice — insert and cut things from any part of an array. Splice will actually change the original data
