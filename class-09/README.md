@@ -118,3 +118,7 @@ For this class we will dive a little bit deeper into Express and higher level pr
   ```
 
   1. List of resources to help with lab or if I want to know more:
+
+## RESOURCES
+
+- [Replit: Objects and Chaining](https://replit.com/@sheyna/StrikingQuarterlyBash#index.js)
