@@ -62,7 +62,7 @@ During this class we will talk about in-memory storage as well as dive deeper in
   }
   ```
 
-  - compare that date/time with however long you want to keep the data. If the data is too old, just empty the object
+- compare that date/time with however long you want to keep the data. If the data is too old, just empty the object
 
   ```javaScript
   if (cache[key] && (Date.now() - cache[key].dateAdded < 50000)) {
@@ -71,3 +71,7 @@ During this class we will talk about in-memory storage as well as dive deeper in
     // dump the data and get fresh data from the API
   }
   ```
+
+## RESOURCES
+
+- [Replit: For In and For Of Loops](https://replit.com/@sheyna/AllDearestLicenses)
